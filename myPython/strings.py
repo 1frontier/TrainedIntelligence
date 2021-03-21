@@ -8,5 +8,9 @@ name  = "Palikhel"
 print(greet, name)
 print(greet + name)
 
-name = input("tero naam k ho re, muji")
+name = input("tero naam k ho re, mula")
 print(greet, name)
+a= 12
+b= 3
+for i in range (1, 40):
+    print(i)
