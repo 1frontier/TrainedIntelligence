@@ -26,3 +26,5 @@ jobs/**/*workspace
 myPython/*.iml
 myPython/*.log
 myPython/.idea/**/*
+dmf
+druih
