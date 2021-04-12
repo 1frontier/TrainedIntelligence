@@ -1,0 +1,1 @@
+print("There are {0} days , {1} months in a year " .format(30,12))
