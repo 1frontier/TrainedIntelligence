@@ -14,3 +14,7 @@ a= 12
 b= 3
 for i in range (1, 40):
     print(i)
+
+
+print()
+print("la hai sarara")
